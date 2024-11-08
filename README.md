@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi 👋
+I'm Marion, fullstack web developer.
+
+### Stack
+💫 Front-end : Sass | JavaScript | React
+🗄 Back-end : PHP | Twig | MySQL | MongoDB
 
 <!--
 **Marion1b/Marion1b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
