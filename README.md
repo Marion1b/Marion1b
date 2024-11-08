@@ -2,7 +2,7 @@
 I'm Marion, fullstack web developer.
 
 ### Stack
-💫 Front-end : Sass | JavaScript | React
+💫 Front-end : Sass | JavaScript | React  
 🗄 Back-end : PHP | Twig | MySQL | MongoDB
 
 <!--
