@@ -7,7 +7,8 @@ I'm Marion, fullstack web developer.
 
 ### Stats
 ![marion1b's Stats](https://github-readme-stats.vercel.app/api?username=marion1b&theme=outrun&show_icons=true&hide_border=true&count_private=true) 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=marion1b&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="github languages">
+![marion1b's Streak](https://github-readme-streak-stats.herokuapp.com/?user=marion1b&theme=outrun&hide_border=true)
+![marion1b's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marion1b&theme=outrun&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **Marion1b/Marion1b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
