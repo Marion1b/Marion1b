@@ -3,7 +3,12 @@ I'm Marion, fullstack web developer.
 
 ### Stack
 💫 Front-end : Sass | JavaScript | React  
-🗄 Back-end : PHP | Twig | MySQL | MongoDB
+🗄 Back-end : PHP | Twig | MySQL | MongoDB  
+
+### Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=marion1b&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="github stats">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=marion1b&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="github languages">
 
 <!--
 **Marion1b/Marion1b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
